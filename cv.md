@@ -19,6 +19,7 @@
 + Delphi
 + Git 
 + VS Code
++ Figma
   
 ---
 ## Code Example
